@@ -1,3 +1,11 @@
+# Random walk simulator 
+Random simulator made with React.js and MaterialUI for old university project
+
+## IMPROVEMENTS AND FIX 
+- Remove log and refactor code
+- Using React.js conventions where not used 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
